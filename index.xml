@@ -6,8 +6,15 @@
     <description>Recent content on hugo-theme-hello-friend-ng</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Oct 2024 12:00:00 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My New Post</title>
+      <link>http://localhost:1313/posts/my-new-post/</link>
+      <pubDate>Mon, 28 Oct 2024 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/posts/my-new-post/</guid>
+      <description>&lt;h1 id=&#34;this-is-my-new-post&#34;&gt;This is my new post!&lt;/h1&gt;&#xA;&lt;p&gt;Here is an image:&#xA;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Sunflower_from_Silesia2.jpg/1200px-Sunflower_from_Silesia2.jpg&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;def&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;hello_world&lt;/span&gt;():&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    print(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello, world!&amp;#34;&lt;/span&gt;)&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
     <item>
       <title>Pageee</title>
       <link>http://localhost:1313/page/</link>

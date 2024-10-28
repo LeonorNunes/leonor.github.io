@@ -1,0 +1,32 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on hugo-theme-hello-friend-ng</title>
+        <link>http://localhost:1313/posts/</link>
+        <description>Recent content in Posts on hugo-theme-hello-friend-ng</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Mon, 28 Oct 2024 12:00:00 +0200</lastBuildDate>
+        <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>My New Post</title>
+            <link>http://localhost:1313/posts/my-new-post/</link>
+            <pubDate>Mon, 28 Oct 2024 12:00:00 +0200</pubDate>
+            
+            <guid>http://localhost:1313/posts/my-new-post/</guid>
+            <description>&lt;h1 id=&#34;this-is-my-new-post&#34;&gt;This is my new post!&lt;/h1&gt;
+&lt;p&gt;Here is an image:
+&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Sunflower_from_Silesia2.jpg/1200px-Sunflower_from_Silesia2.jpg&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;def&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;hello_world&lt;/span&gt;():
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    print(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello, world!&amp;#34;&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+            <content type="html"><![CDATA[<h1 id="this-is-my-new-post">This is my new post!</h1>
+<p>Here is an image:
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Sunflower_from_Silesia2.jpg/1200px-Sunflower_from_Silesia2.jpg" alt="Image Description"></p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span><span style="color:#66d9ef">def</span> <span style="color:#a6e22e">hello_world</span>():
+</span></span><span style="display:flex;"><span>    print(<span style="color:#e6db74">&#34;Hello, world!&#34;</span>)
+</span></span></code></pre></div>]]></content>
+        </item>
+        
+    </channel>
+</rss>
